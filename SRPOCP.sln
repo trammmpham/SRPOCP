@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPOCP", "SRPOCP.csproj", "{C8C35328-C98B-4053-827C-18F1CD3CBE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C35328-C98B-4053-827C-18F1CD3CBE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C35328-C98B-4053-827C-18F1CD3CBE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C35328-C98B-4053-827C-18F1CD3CBE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C35328-C98B-4053-827C-18F1CD3CBE65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7522F84A-7402-4753-A168-B5A2AA1B4628}
+	EndGlobalSection
+EndGlobal
